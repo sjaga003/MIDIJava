@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=note
+comment0.target=Note(java.lang.String)
+comment1.params=note\ time
+comment1.target=Note(java.lang.String,\ long)
+comment2.params=n
+comment2.target=Note\ addTime(long)
+comment3.params=
+comment3.target=java.lang.String\ getNote()
+comment4.params=
+comment4.target=long\ getTime()
+numComments=5
